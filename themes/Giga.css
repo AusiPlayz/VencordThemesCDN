@@ -11,6 +11,7 @@
     --background-image: url('https://ei.phncdn.com/videos/202309/20/439790061/original/(m=qH3V4WYbeGNdHgaaaa)(mh=N2m4FN6YbhgI0uQX)0.jpg');
     --background-image-blur: 0px;
     --background-image-size: cover;
+    --background-image-position: center;
 }
 
 /* Any Custom CSS below here */
