@@ -1,0 +1,16 @@
+/**
+
+* @name Giga
+* @author eynoah#0
+* @version 1.0.0
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+
+:root {
+    --background-image: url('https://ei.phncdn.com/videos/202309/20/439790061/original/(m=qH3V4WYbeGNdHgaaaa)(mh=N2m4FN6YbhgI0uQX)0.jpg');
+    --background-image-blur: 0px;
+    --background-image-size: cover;
+}
+
+/* Any Custom CSS below here */
